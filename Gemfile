@@ -10,8 +10,8 @@ gem 'shotgun'
 # Use Thin for our web server
 gem 'thin'
 
-gem 'activesupport'
-gem 'activerecord'
+gem 'activesupport', "3.2.13"
+gem 'activerecord', "3.2.13"
 
 gem 'rake'
 
